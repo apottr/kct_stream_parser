@@ -1,0 +1,8 @@
+bin
+include
+lib
+lib64
+chunks
+pip-selfcheck.json
+kct-*
+!*.csv
